@@ -1,1 +1,1 @@
-A simple ICT lab for practising Git.
+This exercise helps me understand Git history.
