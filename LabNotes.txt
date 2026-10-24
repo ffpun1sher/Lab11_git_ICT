@@ -1,3 +1,4 @@
-I am A. Javaid, practising Git for ICT Lab 11.
+I am Abdullah Javaid.
+I am practising Git for ICT Lab 11.
 My student CMS number is 590029.
 I added this note while working on a feature branch.
