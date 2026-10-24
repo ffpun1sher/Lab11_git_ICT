@@ -1,1 +1,1 @@
-This exercise helps me understand Git history.
+This lab records my first steps with Git.
